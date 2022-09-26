@@ -1,0 +1,1051 @@
+eventName,screenName,context,category,userId,sessionId,date,operatingSystem
+search,home,navigation,,6247,95436535703,21-08-2022,iOS
+home,home,navigation,,2701,28966502062,06-08-2022,Android
+library,home,navigation,,3685,38875520340,07-08-2022,iOS
+settings,home,,,1917,64738321330,30-08-2022,Android
+image,home,recently_played,Chilled Hits,2940,102450394295,13-08-2022,iOS
+image,home,recently_played,Study beats,3962,24629164563,06-08-2022,iOS
+image,home,recently_played,Chill as Folk,3930,46487835680,24-08-2022,Android
+image,home,suggestions,Indie,6848,92064960961,14-08-2022,Android
+image,home,suggestions,Dance & EDM,1795,89069200408,01-08-2022,Android
+image,home,suggestions,Country Rock,6903,53744875528,01-08-2022,iOS
+image,home,suggestions,Electronic,1566,108879185550,28-08-2022,iOS
+image,home,suggestions,Are & Be,7794,100253521906,11-08-2022,Android
+image,home,suggestions,Chilled Hits,4252,92794407200,16-08-2022,iOS
+image,home,made_for_you,Chilled Hits,6921,27732092206,29-08-2022,Android
+image,home,made_for_you,Chilled Vibes,5805,95195917919,20-08-2022,iOS
+search,search,bar,,6067,40746829809,26-08-2022,Android
+search,search,navigation,,4815,58415935485,03-08-2022,iOS
+home,search,navigation,,3411,29884397682,30-08-2022,iOS
+library,search,navigation,,4860,13159402838,11-08-2022,iOS
+image,search,popular,YouTubers,8413,12718736536,17-08-2022,iOS
+image,search,popular,Comedy,3463,66748805511,13-08-2022,iOS
+image,search,top_genres,Dance/Electronic,6790,110822283818,16-08-2022,iOS
+image,search,top_genres,Rock,3239,66219234303,19-08-2022,Android
+image,search,popular,YouTubers,3510,88193332385,25-08-2022,Android
+image,search,popular,Comedy,9784,75091229396,06-08-2022,Android
+image,search,browse_all,Podcasts,3634,77955716702,29-08-2022,iOS
+image,search,browse_all,Charts,3719,42609680947,29-08-2022,iOS
+image,search,browse_all,Chillout,3127,63783070155,13-08-2022,iOS
+image,search,browse_all,Study Jams,3095,98628669367,03-08-2022,iOS
+home,search,navigation,,5750,94633453198,12-08-2022,iOS
+search,search,navigation,,6474,89352032615,20-08-2022,Android
+library,search,navigation,,1549,13951789069,28-08-2022,Android
+play,album,album,,4309,101939619915,05-08-2022,Android
+play,album,song,,8929,81973948419,18-08-2022,Android
+love,album,album,,2828,49725980231,29-08-2022,Android
+download,album,,,1872,16902682060,21-08-2022,Android
+random,album,,,1481,102697814881,13-08-2022,iOS
+more,album,,,5891,66461385638,30-08-2022,iOS
+home,album,navigation,,3858,37625291923,20-08-2022,iOS
+search,album,navigation,,4525,104719368194,30-08-2022,iOS
+library,album,navigation,,6063,21805248898,11-08-2022,iOS
+back,album,navigation,,7326,44132736863,08-08-2022,Android
+home,liked_songs,navigation,,7078,13378313288,12-08-2022,Android
+search,liked_songs,navigation,,2039,21875045272,07-08-2022,iOS
+library,liked_songs,navigation,,2925,74653937044,21-08-2022,Android
+play,liked_songs,shuffle,,2520,70831912980,11-08-2022,iOS
+add,liked_songs,add_songs,,9496,57784541129,13-08-2022,iOS
+unlove,liked_songs,,,6974,83546071132,13-08-2022,Android
+more,liked_songs,,,8811,109515580866,29-08-2022,iOS
+toggle,liked_songs,download_all,,8040,64989707107,21-08-2022,Android
+image,home,suggestions,Electronic,3116,61767892507,18-08-2022,Android
+library,album,navigation,,5299,42962500610,12-08-2022,Android
+image,home,suggestions,Electronic,3978,61067631191,09-08-2022,iOS
+toggle,liked_songs,download_all,,5028,62933890336,19-08-2022,iOS
+image,search,browse_all,Podcasts,3556,38783321940,01-08-2022,iOS
+search,home,navigation,,6229,26920189078,13-08-2022,Android
+image,search,popular,YouTubers,2478,51169624433,30-08-2022,iOS
+settings,home,,,3091,45709018721,01-08-2022,iOS
+image,search,popular,Comedy,5582,24217087281,29-08-2022,iOS
+image,search,browse_all,Charts,9180,57856799543,03-08-2022,iOS
+image,home,suggestions,Are & Be,5408,29817920994,09-08-2022,Android
+search,search,navigation,,4308,83355518303,23-08-2022,iOS
+love,album,album,,7080,35302108356,24-08-2022,Android
+love,album,album,,5761,64560736993,20-08-2022,iOS
+image,home,suggestions,Electronic,2249,41753017419,28-08-2022,Android
+more,album,,,4459,34249923127,16-08-2022,Android
+image,home,suggestions,Are & Be,1468,97211204580,01-08-2022,Android
+download,album,,,4167,102887020973,11-08-2022,iOS
+image,home,suggestions,Dance & EDM,9512,81098197438,10-08-2022,iOS
+play,album,album,,4186,78282585496,27-08-2022,iOS
+more,liked_songs,,,2854,109597599055,15-08-2022,Android
+image,search,popular,Comedy,6691,82798912793,01-08-2022,iOS
+image,home,recently_played,Study beats,1830,100844032112,25-08-2022,iOS
+image,search,browse_all,Chillout,1117,76405186627,23-08-2022,Android
+add,liked_songs,add_songs,,4930,27118668835,21-08-2022,Android
+home,search,navigation,,3682,45117462976,22-08-2022,iOS
+home,album,navigation,,5295,28417180200,28-08-2022,Android
+image,home,suggestions,Are & Be,4042,60413493663,04-08-2022,iOS
+library,album,navigation,,5780,62471450005,28-08-2022,iOS
+search,search,navigation,,2369,34541115500,09-08-2022,Android
+image,home,suggestions,Are & Be,5381,107977395336,19-08-2022,iOS
+play,liked_songs,shuffle,,9921,40124140296,25-08-2022,iOS
+image,search,popular,YouTubers,8105,104089600472,21-08-2022,iOS
+image,home,made_for_you,Chilled Hits,3228,32659587846,03-08-2022,iOS
+random,album,,,2092,97033362340,12-08-2022,iOS
+download,album,,,5544,63450628037,08-08-2022,iOS
+more,liked_songs,,,8491,80060061868,31-08-2022,Android
+image,home,suggestions,Electronic,8627,105888154698,17-08-2022,Android
+library,album,navigation,,4685,105442562792,01-08-2022,iOS
+random,album,,,6695,21256022064,11-08-2022,iOS
+image,home,suggestions,Are & Be,6120,20949651450,12-08-2022,Android
+image,home,suggestions,Chilled Hits,8688,73292745297,13-08-2022,iOS
+image,home,suggestions,Electronic,8614,41695899523,15-08-2022,Android
+image,home,recently_played,Study beats,4689,70327478066,05-08-2022,Android
+unlove,liked_songs,,,2060,23178686336,13-08-2022,Android
+home,search,navigation,,9799,109134446883,12-08-2022,Android
+home,album,navigation,,6640,30482859759,12-08-2022,iOS
+play,album,album,,4493,15156763683,31-08-2022,iOS
+image,search,browse_all,Chillout,5798,66101311733,29-08-2022,iOS
+settings,home,,,8837,92758725506,06-08-2022,iOS
+search,liked_songs,navigation,,9997,13112664150,30-08-2022,Android
+search,search,navigation,,9942,41957927290,04-08-2022,iOS
+library,liked_songs,navigation,,6812,14141146735,09-08-2022,Android
+library,search,navigation,,1917,13096264541,20-08-2022,Android
+image,home,made_for_you,Chilled Vibes,7358,48864107165,30-08-2022,Android
+home,search,navigation,,5824,17829427636,01-08-2022,Android
+download,album,,,4523,69604144608,05-08-2022,iOS
+image,home,suggestions,Country Rock,2956,100340311523,09-08-2022,iOS
+play,album,album,,4541,62754775058,26-08-2022,Android
+search,search,navigation,,9268,49706569918,09-08-2022,Android
+unlove,liked_songs,,,1217,100589046601,01-08-2022,iOS
+love,album,album,,7702,63500033757,23-08-2022,Android
+home,liked_songs,navigation,,8699,33209949844,28-08-2022,Android
+random,album,,,2290,34101055432,15-08-2022,iOS
+play,album,song,,1206,93592855730,09-08-2022,iOS
+image,home,suggestions,Chilled Hits,7296,37475478961,26-08-2022,iOS
+image,search,popular,YouTubers,7842,32373526497,03-08-2022,iOS
+image,home,recently_played,Chilled Hits,2833,26382039605,25-08-2022,iOS
+search,search,navigation,,8542,110181678366,04-08-2022,Android
+home,home,navigation,,7529,33203485391,16-08-2022,Android
+toggle,liked_songs,download_all,,8056,84730376736,26-08-2022,iOS
+image,search,browse_all,Chillout,6298,18041401642,30-08-2022,Android
+image,search,browse_all,Chillout,3440,104399158651,30-08-2022,iOS
+download,album,,,4482,82087811578,26-08-2022,iOS
+image,search,top_genres,Dance/Electronic,4702,50389967494,11-08-2022,Android
+back,album,navigation,,9720,97506037047,02-08-2022,Android
+home,search,navigation,,4699,41513121765,20-08-2022,Android
+image,home,recently_played,Study beats,7168,68242216733,21-08-2022,Android
+image,home,suggestions,Dance & EDM,9990,93408970591,26-08-2022,iOS
+image,home,suggestions,Chilled Hits,7034,69774693498,25-08-2022,Android
+image,home,suggestions,Electronic,1130,98771734029,14-08-2022,iOS
+image,home,recently_played,Study beats,2824,81370883777,22-08-2022,Android
+home,search,navigation,,6891,71590369669,06-08-2022,iOS
+random,album,,,2069,64272906643,03-08-2022,Android
+image,home,recently_played,Study beats,6611,51673874513,19-08-2022,iOS
+back,album,navigation,,6636,110706510624,06-08-2022,Android
+search,search,navigation,,6148,93297492077,08-08-2022,iOS
+image,home,suggestions,Chilled Hits,5853,79874741511,16-08-2022,Android
+image,search,browse_all,Study Jams,2392,104809222555,21-08-2022,iOS
+search,search,navigation,,5577,22017198563,30-08-2022,Android
+library,search,navigation,,7677,84090238010,08-08-2022,iOS
+image,home,recently_played,Chilled Hits,8786,62716647058,07-08-2022,iOS
+play,album,album,,7040,97001093399,10-08-2022,iOS
+library,home,navigation,,9595,52576550088,31-08-2022,Android
+back,album,navigation,,3092,88295058349,16-08-2022,Android
+image,home,made_for_you,Chilled Vibes,1571,87418707884,30-08-2022,Android
+search,home,navigation,,2904,109993543881,31-08-2022,Android
+image,home,suggestions,Chilled Hits,8457,30213126439,16-08-2022,Android
+image,search,top_genres,Dance/Electronic,7646,82050270421,12-08-2022,Android
+settings,home,,,6151,52904710646,30-08-2022,Android
+image,home,recently_played,Chilled Hits,6685,110106031772,25-08-2022,iOS
+library,search,navigation,,3208,40042931915,29-08-2022,Android
+library,liked_songs,navigation,,5935,70203338896,12-08-2022,iOS
+image,search,popular,YouTubers,8298,100697430034,18-08-2022,Android
+home,liked_songs,navigation,,1433,98380616368,29-08-2022,iOS
+library,liked_songs,navigation,,4735,30758024332,09-08-2022,Android
+play,album,album,,8025,72863007723,09-08-2022,iOS
+image,search,popular,Comedy,6672,62148433662,26-08-2022,iOS
+image,home,made_for_you,Chilled Vibes,2048,26237235914,30-08-2022,iOS
+image,home,suggestions,Indie,9123,45331027560,01-08-2022,Android
+home,search,navigation,,1299,89880218827,16-08-2022,Android
+more,liked_songs,,,5352,63651526879,05-08-2022,iOS
+add,liked_songs,add_songs,,3946,102034519438,12-08-2022,iOS
+image,home,recently_played,Chill as Folk,3736,48811231411,28-08-2022,Android
+library,search,navigation,,4561,14890974613,20-08-2022,iOS
+search,search,navigation,,7503,61891861873,10-08-2022,iOS
+image,search,popular,YouTubers,3576,96778099361,07-08-2022,iOS
+image,search,popular,YouTubers,5845,72274944194,05-08-2022,Android
+library,home,navigation,,5195,28615831914,31-08-2022,Android
+back,album,navigation,,7571,49644290278,01-08-2022,iOS
+random,album,,,7517,53882352073,16-08-2022,iOS
+search,liked_songs,navigation,,8855,54944794828,12-08-2022,iOS
+home,search,navigation,,6338,62446921927,16-08-2022,Android
+image,search,popular,Comedy,7412,28729565670,27-08-2022,Android
+play,album,song,,3926,44422173956,20-08-2022,Android
+library,home,navigation,,1476,76064730454,31-08-2022,iOS
+search,album,navigation,,7247,31363377514,05-08-2022,iOS
+image,home,made_for_you,Chilled Hits,3405,44459038955,12-08-2022,Android
+more,album,,,9446,92552397904,09-08-2022,iOS
+home,home,navigation,,9321,29624624371,31-08-2022,Android
+home,search,navigation,,4826,66868550853,03-08-2022,iOS
+image,home,suggestions,Electronic,7793,84894400272,15-08-2022,iOS
+image,home,suggestions,Dance & EDM,5819,34723514130,11-08-2022,Android
+image,search,popular,Comedy,2993,36146549914,11-08-2022,iOS
+search,liked_songs,navigation,,2169,70850645807,06-08-2022,iOS
+library,search,navigation,,1082,104387600206,14-08-2022,iOS
+play,album,song,,7390,37616836286,26-08-2022,Android
+search,album,navigation,,5950,68266942551,02-08-2022,Android
+image,search,browse_all,Charts,4194,101763856789,01-08-2022,Android
+home,search,navigation,,3710,55919635740,13-08-2022,iOS
+search,search,bar,,1822,60423713492,19-08-2022,iOS
+image,home,suggestions,Indie,6479,13871784695,26-08-2022,iOS
+search,search,navigation,,3811,93379351447,18-08-2022,Android
+image,home,suggestions,Are & Be,7641,103315338368,06-08-2022,iOS
+image,search,browse_all,Charts,3096,60236234000,26-08-2022,Android
+image,home,suggestions,Dance & EDM,3409,105042737849,10-08-2022,iOS
+home,search,navigation,,9169,27561422525,08-08-2022,iOS
+image,search,popular,Comedy,6908,86614522179,16-08-2022,iOS
+search,search,navigation,,8824,90546583528,05-08-2022,iOS
+search,liked_songs,navigation,,1619,39230476226,02-08-2022,Android
+image,search,browse_all,Podcasts,1258,17469889496,05-08-2022,Android
+play,album,album,,8408,56750944439,16-08-2022,Android
+image,search,popular,YouTubers,1593,34984284579,12-08-2022,iOS
+image,home,suggestions,Country Rock,3098,22066867849,13-08-2022,iOS
+home,search,navigation,,2847,110335470091,30-08-2022,Android
+search,search,bar,,9492,84242187921,21-08-2022,Android
+image,home,suggestions,Are & Be,4051,73453420859,26-08-2022,iOS
+image,search,popular,Comedy,7409,51717991875,28-08-2022,Android
+image,search,popular,Comedy,7399,68109288910,10-08-2022,iOS
+image,search,top_genres,Rock,1328,74946137973,05-08-2022,Android
+image,home,suggestions,Chilled Hits,2153,16885839768,04-08-2022,Android
+image,search,popular,YouTubers,5372,76364376703,22-08-2022,Android
+library,search,navigation,,1327,74417825149,15-08-2022,Android
+image,home,suggestions,Chilled Hits,5079,76379320896,06-08-2022,iOS
+image,home,recently_played,Study beats,5407,36913499940,04-08-2022,iOS
+unlove,liked_songs,,,9601,15650049250,30-08-2022,Android
+play,album,song,,6967,104886925047,16-08-2022,iOS
+download,album,,,6482,54293281697,03-08-2022,Android
+unlove,liked_songs,,,8655,41543489991,02-08-2022,Android
+home,album,navigation,,2182,72931815261,25-08-2022,iOS
+love,album,album,,5329,12475948458,20-08-2022,Android
+image,search,popular,YouTubers,2941,75638163113,29-08-2022,iOS
+play,album,song,,7739,12738960281,21-08-2022,iOS
+toggle,liked_songs,download_all,,7668,80293586325,31-08-2022,Android
+unlove,liked_songs,,,4657,99492342189,08-08-2022,Android
+search,liked_songs,navigation,,5644,98974225072,09-08-2022,Android
+play,liked_songs,shuffle,,8396,103156944019,12-08-2022,Android
+more,album,,,1983,61191813298,19-08-2022,Android
+search,liked_songs,navigation,,9710,69134694853,08-08-2022,Android
+image,search,browse_all,Chillout,4146,53799734649,03-08-2022,iOS
+play,liked_songs,shuffle,,7116,19936488908,31-08-2022,iOS
+search,search,navigation,,6799,24127155166,14-08-2022,iOS
+search,liked_songs,navigation,,7151,107724663898,15-08-2022,iOS
+image,home,made_for_you,Chilled Hits,4056,59902914940,09-08-2022,Android
+home,search,navigation,,7429,19288131862,16-08-2022,iOS
+image,home,suggestions,Electronic,4669,23263233775,07-08-2022,Android
+search,search,navigation,,8259,29729887743,01-08-2022,Android
+add,liked_songs,add_songs,,8551,73742683775,27-08-2022,Android
+home,search,navigation,,9990,42293649403,21-08-2022,Android
+image,search,browse_all,Chillout,8095,24183205502,05-08-2022,Android
+settings,home,,,7084,68633224571,13-08-2022,iOS
+library,liked_songs,navigation,,6507,95187613937,28-08-2022,iOS
+random,album,,,2138,44655563501,28-08-2022,Android
+image,home,suggestions,Dance & EDM,6259,89252876178,04-08-2022,Android
+image,search,popular,Comedy,5920,102199004172,31-08-2022,iOS
+search,search,bar,,1291,87199617454,11-08-2022,iOS
+image,search,popular,Comedy,8486,24535780206,11-08-2022,iOS
+image,search,browse_all,Charts,8766,46873311649,13-08-2022,iOS
+download,album,,,6077,25193569249,28-08-2022,iOS
+image,home,suggestions,Are & Be,5982,13330024999,22-08-2022,iOS
+image,home,recently_played,Chill as Folk,9838,78033327913,18-08-2022,iOS
+home,search,navigation,,6658,13027284907,06-08-2022,iOS
+back,album,navigation,,8884,93654431015,17-08-2022,Android
+image,home,suggestions,Country Rock,5138,64979324752,31-08-2022,iOS
+library,search,navigation,,8302,12322755472,04-08-2022,Android
+library,search,navigation,,4212,68694172878,10-08-2022,Android
+library,liked_songs,navigation,,9084,62485937033,29-08-2022,Android
+search,search,navigation,,4588,92419184738,11-08-2022,iOS
+play,liked_songs,shuffle,,9405,48360319121,03-08-2022,Android
+image,home,suggestions,Indie,5981,63527226757,01-08-2022,Android
+image,home,suggestions,Indie,9945,12564144971,19-08-2022,Android
+search,home,navigation,,2737,58444872028,09-08-2022,iOS
+settings,home,,,6270,14420541955,08-08-2022,Android
+search,search,bar,,4144,65998349035,20-08-2022,Android
+home,search,navigation,,5667,85114396345,06-08-2022,Android
+image,home,suggestions,Country Rock,4338,32759738008,29-08-2022,Android
+settings,home,,,7045,45741346609,02-08-2022,Android
+library,search,navigation,,7830,87612439323,13-08-2022,iOS
+unlove,liked_songs,,,2401,33960457892,25-08-2022,iOS
+play,album,song,,5038,51083781228,17-08-2022,Android
+play,album,album,,9798,32266859843,08-08-2022,iOS
+download,album,,,4319,45564451720,05-08-2022,iOS
+image,home,suggestions,Are & Be,1151,44891169020,14-08-2022,iOS
+search,search,navigation,,9625,21909334242,20-08-2022,iOS
+download,album,,,1907,14738786546,03-08-2022,iOS
+download,album,,,1732,29810015891,15-08-2022,Android
+library,search,navigation,,7144,37932066154,20-08-2022,iOS
+home,home,navigation,,7763,88486457622,07-08-2022,Android
+image,search,browse_all,Charts,2517,62333495250,10-08-2022,Android
+library,search,navigation,,5341,75286209672,15-08-2022,iOS
+image,search,browse_all,Study Jams,7541,104932511276,16-08-2022,iOS
+settings,home,,,1744,68135196603,28-08-2022,Android
+more,liked_songs,,,8426,104981158863,28-08-2022,Android
+image,search,popular,Comedy,4198,96165877447,25-08-2022,iOS
+home,liked_songs,navigation,,4306,22369873784,19-08-2022,Android
+home,liked_songs,navigation,,2095,55339998822,22-08-2022,Android
+image,search,top_genres,Dance/Electronic,4398,103058736327,20-08-2022,iOS
+library,search,navigation,,3830,39260365212,02-08-2022,iOS
+home,search,navigation,,9700,76569960135,31-08-2022,iOS
+search,search,navigation,,2695,66808207024,01-08-2022,Android
+play,liked_songs,shuffle,,5517,61989866520,08-08-2022,iOS
+add,liked_songs,add_songs,,3250,35781116037,22-08-2022,iOS
+image,home,made_for_you,Chilled Hits,4795,78567862450,23-08-2022,Android
+home,search,navigation,,3438,98021556919,26-08-2022,iOS
+image,home,made_for_you,Chilled Hits,8490,78048578833,06-08-2022,iOS
+back,album,navigation,,4745,85296827946,04-08-2022,iOS
+home,search,navigation,,3132,87407400507,12-08-2022,iOS
+play,liked_songs,shuffle,,8093,72202364702,25-08-2022,Android
+more,liked_songs,,,1612,86872198366,27-08-2022,iOS
+more,album,,,4978,38765381360,01-08-2022,iOS
+home,album,navigation,,2158,33604031408,31-08-2022,Android
+search,search,bar,,9404,44101161919,24-08-2022,Android
+image,home,suggestions,Indie,8941,92487092948,10-08-2022,iOS
+image,search,popular,YouTubers,3429,46614363721,07-08-2022,Android
+image,home,suggestions,Electronic,9936,99948875381,10-08-2022,iOS
+search,liked_songs,navigation,,8520,72460506871,27-08-2022,iOS
+search,search,navigation,,5324,90802465285,31-08-2022,Android
+more,album,,,1503,110291874080,05-08-2022,iOS
+home,liked_songs,navigation,,2530,71084104058,28-08-2022,Android
+more,album,,,8967,40902857295,15-08-2022,Android
+image,search,browse_all,Podcasts,5225,62169767833,02-08-2022,iOS
+home,search,navigation,,2182,110824863052,27-08-2022,Android
+search,album,navigation,,1993,106384407730,15-08-2022,Android
+image,search,popular,YouTubers,2115,56204977109,30-08-2022,iOS
+library,liked_songs,navigation,,9081,71105157718,11-08-2022,iOS
+home,search,navigation,,6584,62945474408,23-08-2022,Android
+image,home,made_for_you,Chilled Hits,9967,63072886046,12-08-2022,Android
+more,album,,,9607,101349345210,15-08-2022,iOS
+image,home,suggestions,Country Rock,3826,69506057161,07-08-2022,iOS
+home,search,navigation,,6364,34310160332,28-08-2022,iOS
+image,search,popular,YouTubers,6923,104378399409,11-08-2022,Android
+image,home,suggestions,Indie,7956,91951536967,18-08-2022,Android
+more,liked_songs,,,9519,12331616544,30-08-2022,iOS
+image,home,suggestions,Country Rock,8928,82460340637,07-08-2022,Android
+image,search,browse_all,Charts,8859,78117137311,27-08-2022,iOS
+unlove,liked_songs,,,1857,12236570990,12-08-2022,iOS
+image,home,suggestions,Dance & EDM,3154,49867574517,31-08-2022,iOS
+image,home,recently_played,Chill as Folk,7896,73086146701,15-08-2022,Android
+love,album,album,,9194,73869754275,01-08-2022,Android
+image,home,made_for_you,Chilled Vibes,4691,94298696682,24-08-2022,iOS
+play,album,song,,9704,59863481323,31-08-2022,iOS
+play,album,album,,9831,83723646209,11-08-2022,Android
+image,home,suggestions,Indie,3235,59004708974,23-08-2022,Android
+image,home,recently_played,Chilled Hits,9987,31395516309,22-08-2022,Android
+play,liked_songs,shuffle,,6957,57906972673,23-08-2022,iOS
+play,album,album,,1881,32567531917,07-08-2022,Android
+image,home,suggestions,Chilled Hits,2123,85063703653,21-08-2022,Android
+image,home,suggestions,Are & Be,5592,49257648501,18-08-2022,Android
+image,search,popular,Comedy,8756,53564851454,18-08-2022,Android
+home,liked_songs,navigation,,5427,51627963986,12-08-2022,iOS
+image,home,recently_played,Chill as Folk,2196,83059545519,23-08-2022,iOS
+image,home,recently_played,Study beats,1812,12049412715,20-08-2022,iOS
+image,home,suggestions,Electronic,7485,73097082670,05-08-2022,iOS
+image,search,browse_all,Charts,8111,47715702425,07-08-2022,iOS
+home,home,navigation,,3962,15161814591,09-08-2022,Android
+home,liked_songs,navigation,,9875,39529745588,23-08-2022,Android
+image,search,popular,YouTubers,2823,102510299361,24-08-2022,iOS
+back,album,navigation,,4727,13200025781,07-08-2022,iOS
+search,search,bar,,9752,44017160714,10-08-2022,iOS
+image,search,popular,Comedy,9434,89330902828,19-08-2022,iOS
+settings,home,,,4799,30957198700,20-08-2022,Android
+search,liked_songs,navigation,,3982,62864166560,01-08-2022,Android
+search,search,navigation,,3656,76578887789,07-08-2022,iOS
+settings,home,,,3191,73866926047,07-08-2022,Android
+play,album,song,,6186,57842726329,06-08-2022,Android
+image,home,suggestions,Chilled Hits,5647,27507864672,24-08-2022,Android
+image,home,recently_played,Study beats,1730,19158276059,29-08-2022,Android
+image,search,browse_all,Chillout,9524,32612755311,19-08-2022,iOS
+image,search,browse_all,Chillout,7171,38305907229,22-08-2022,iOS
+search,search,navigation,,8730,70700550322,26-08-2022,iOS
+image,home,suggestions,Chilled Hits,4949,44733545620,22-08-2022,Android
+more,album,,,4875,70374033973,27-08-2022,Android
+library,liked_songs,navigation,,4675,79410053010,12-08-2022,Android
+play,album,album,,2018,38267199863,07-08-2022,iOS
+search,album,navigation,,5723,13389317861,19-08-2022,iOS
+random,album,,,2854,93976517503,03-08-2022,iOS
+more,album,,,8690,70711178176,17-08-2022,iOS
+image,search,popular,YouTubers,2111,88049095072,11-08-2022,iOS
+image,search,popular,YouTubers,9134,37404023561,23-08-2022,Android
+play,album,album,,5190,104571851254,13-08-2022,Android
+image,search,browse_all,Chillout,5897,93038712583,31-08-2022,iOS
+settings,home,,,6900,103123945272,26-08-2022,Android
+image,search,top_genres,Dance/Electronic,1827,84755051910,03-08-2022,iOS
+search,album,navigation,,4521,110970977133,20-08-2022,iOS
+random,album,,,8988,73070571011,23-08-2022,Android
+home,album,navigation,,9858,60339164118,14-08-2022,Android
+image,search,popular,Comedy,5773,13080192601,22-08-2022,Android
+home,search,navigation,,6381,35274000440,24-08-2022,iOS
+search,liked_songs,navigation,,4948,94712136190,26-08-2022,iOS
+image,home,made_for_you,Chilled Vibes,3233,69310178804,09-08-2022,iOS
+library,liked_songs,navigation,,5131,75580227282,24-08-2022,iOS
+image,home,suggestions,Electronic,3328,77352951172,01-08-2022,iOS
+image,home,suggestions,Chilled Hits,3416,51242925145,23-08-2022,iOS
+settings,home,,,9658,82169632627,01-08-2022,iOS
+love,album,album,,9035,36373720663,13-08-2022,Android
+image,search,popular,YouTubers,3833,38096688755,26-08-2022,Android
+play,liked_songs,shuffle,,3848,23914978793,01-08-2022,iOS
+unlove,liked_songs,,,5221,105398450034,10-08-2022,Android
+image,home,made_for_you,Chilled Hits,4631,15540461938,24-08-2022,Android
+library,search,navigation,,7903,37166179149,27-08-2022,Android
+unlove,liked_songs,,,3328,64947548812,08-08-2022,Android
+image,home,suggestions,Dance & EDM,4795,27375969109,13-08-2022,iOS
+image,home,made_for_you,Chilled Vibes,1263,60122060450,28-08-2022,Android
+search,album,navigation,,9464,69749675335,10-08-2022,iOS
+image,home,suggestions,Dance & EDM,8446,28712264315,05-08-2022,iOS
+image,search,popular,YouTubers,5287,72418960165,07-08-2022,Android
+home,search,navigation,,4574,33302233843,19-08-2022,iOS
+image,search,browse_all,Study Jams,6128,79836181038,13-08-2022,Android
+library,liked_songs,navigation,,6090,11445034482,09-08-2022,Android
+library,search,navigation,,1815,70320732351,26-08-2022,iOS
+home,home,navigation,,9318,78414734655,26-08-2022,iOS
+play,liked_songs,shuffle,,3679,51607289547,29-08-2022,Android
+library,search,navigation,,9761,77111029752,03-08-2022,Android
+search,album,navigation,,4974,92197087352,28-08-2022,Android
+image,home,suggestions,Country Rock,5839,87574219116,19-08-2022,Android
+search,home,navigation,,2137,60853648085,08-08-2022,Android
+home,search,navigation,,8633,40723137160,24-08-2022,iOS
+unlove,liked_songs,,,5129,77854971975,17-08-2022,iOS
+image,search,popular,Comedy,9861,29299268357,30-08-2022,Android
+image,home,recently_played,Chilled Hits,1352,94322188671,13-08-2022,iOS
+home,album,navigation,,5890,86159544430,20-08-2022,Android
+search,home,navigation,,7529,41533608972,03-08-2022,iOS
+home,album,navigation,,4818,47319343862,10-08-2022,Android
+image,search,popular,YouTubers,2953,56795063062,31-08-2022,Android
+image,search,browse_all,Chillout,3388,62580270969,03-08-2022,iOS
+image,search,browse_all,Chillout,4790,105481240591,18-08-2022,iOS
+image,search,top_genres,Rock,8351,94410526207,01-08-2022,Android
+image,search,browse_all,Podcasts,2697,32905399494,19-08-2022,Android
+image,search,top_genres,Dance/Electronic,5615,85979063927,21-08-2022,iOS
+play,liked_songs,shuffle,,6782,104675013359,07-08-2022,iOS
+image,home,recently_played,Chilled Hits,5480,25951181648,02-08-2022,iOS
+image,search,top_genres,Rock,8660,43646047037,20-08-2022,iOS
+image,search,browse_all,Chillout,3580,17551649166,22-08-2022,iOS
+search,search,bar,,4637,80343518587,22-08-2022,iOS
+unlove,liked_songs,,,3087,66579317521,03-08-2022,Android
+more,liked_songs,,,5624,15766952998,24-08-2022,Android
+unlove,liked_songs,,,3616,15184664191,19-08-2022,Android
+image,home,recently_played,Study beats,2157,12376245859,02-08-2022,iOS
+image,search,popular,Comedy,1243,94727658460,30-08-2022,Android
+play,liked_songs,shuffle,,8982,52334786243,19-08-2022,Android
+image,search,popular,Comedy,8524,33934246856,19-08-2022,iOS
+search,search,bar,,7063,69974600336,16-08-2022,Android
+more,liked_songs,,,4981,81078639564,10-08-2022,iOS
+image,home,suggestions,Electronic,5415,73966395394,16-08-2022,iOS
+random,album,,,7375,74021227308,16-08-2022,Android
+play,album,album,,3947,32561511390,24-08-2022,iOS
+image,search,popular,YouTubers,2786,62472848574,24-08-2022,Android
+settings,home,,,6866,91468902857,02-08-2022,Android
+more,liked_songs,,,7148,92198015864,23-08-2022,iOS
+play,album,song,,8010,14009506298,03-08-2022,Android
+image,search,top_genres,Rock,9998,92012698109,30-08-2022,iOS
+search,album,navigation,,1111,12813639763,09-08-2022,Android
+home,album,navigation,,6779,83203086790,03-08-2022,Android
+image,home,made_for_you,Chilled Hits,8108,108549178026,03-08-2022,iOS
+image,search,popular,Comedy,9327,38753372363,30-08-2022,Android
+search,search,navigation,,7417,51736189760,13-08-2022,iOS
+play,album,album,,6693,76894836134,06-08-2022,Android
+toggle,liked_songs,download_all,,4903,60387084593,11-08-2022,Android
+image,home,recently_played,Study beats,8416,93560429141,05-08-2022,Android
+back,album,navigation,,3633,82980089521,27-08-2022,Android
+search,album,navigation,,1386,64279110147,18-08-2022,Android
+image,home,suggestions,Electronic,8216,62884851122,07-08-2022,Android
+home,liked_songs,navigation,,4858,85914118725,12-08-2022,iOS
+search,search,bar,,9484,94932978333,18-08-2022,iOS
+image,search,popular,YouTubers,5288,47693742043,23-08-2022,iOS
+image,search,browse_all,Podcasts,4267,40705710519,26-08-2022,iOS
+image,search,top_genres,Dance/Electronic,8107,45406401430,29-08-2022,Android
+library,album,navigation,,8471,87571616506,31-08-2022,Android
+image,home,suggestions,Dance & EDM,3354,68951972259,11-08-2022,iOS
+image,home,recently_played,Chilled Hits,5019,47823231134,27-08-2022,Android
+play,liked_songs,shuffle,,1883,109927110801,18-08-2022,iOS
+image,home,suggestions,Electronic,1413,66283700062,03-08-2022,iOS
+image,home,suggestions,Are & Be,4344,85674185864,08-08-2022,Android
+search,liked_songs,navigation,,8575,76573018347,13-08-2022,iOS
+image,home,suggestions,Electronic,6396,71245301387,09-08-2022,Android
+image,search,popular,YouTubers,9273,53829441401,31-08-2022,Android
+image,search,top_genres,Dance/Electronic,5491,15167680335,24-08-2022,Android
+love,album,album,,5953,44270384582,05-08-2022,Android
+image,home,recently_played,Chilled Hits,8884,52725327310,10-08-2022,iOS
+image,search,top_genres,Rock,7844,19291589271,08-08-2022,iOS
+library,album,navigation,,7672,25013484607,31-08-2022,Android
+play,album,album,,1572,75879333967,28-08-2022,iOS
+image,home,made_for_you,Chilled Vibes,1685,82247028760,03-08-2022,Android
+home,album,navigation,,1106,98444216438,25-08-2022,Android
+image,search,top_genres,Rock,9494,57602232288,17-08-2022,iOS
+search,home,navigation,,4303,103316976550,17-08-2022,iOS
+image,home,made_for_you,Chilled Vibes,6564,94456228981,28-08-2022,Android
+play,album,song,,1231,17276919165,25-08-2022,Android
+image,home,recently_played,Study beats,4246,50602030491,15-08-2022,Android
+image,home,recently_played,Chilled Hits,8558,98486427224,01-08-2022,iOS
+settings,home,,,2020,89802328840,18-08-2022,Android
+search,search,navigation,,5210,28432620027,11-08-2022,Android
+search,liked_songs,navigation,,2324,58962983843,22-08-2022,iOS
+library,search,navigation,,3219,22292598968,07-08-2022,iOS
+home,album,navigation,,9725,68220273364,01-08-2022,iOS
+image,search,popular,Comedy,3254,11490912068,06-08-2022,iOS
+search,liked_songs,navigation,,3691,44401713188,09-08-2022,iOS
+love,album,album,,1143,75193579111,01-08-2022,iOS
+image,home,suggestions,Chilled Hits,5799,27620412296,14-08-2022,Android
+home,search,navigation,,5700,95344971505,21-08-2022,iOS
+image,home,recently_played,Study beats,9169,23295495490,16-08-2022,Android
+search,search,navigation,,3093,36530025199,27-08-2022,Android
+image,search,popular,YouTubers,7107,95977286414,13-08-2022,iOS
+home,liked_songs,navigation,,5581,75505231716,20-08-2022,iOS
+image,search,browse_all,Podcasts,3796,104800250570,07-08-2022,iOS
+library,search,navigation,,4145,95525192930,08-08-2022,Android
+image,home,suggestions,Country Rock,9416,42642170471,28-08-2022,iOS
+library,search,navigation,,5751,89999750190,11-08-2022,iOS
+image,home,suggestions,Country Rock,5412,59671996342,28-08-2022,iOS
+image,search,popular,YouTubers,1261,54408191959,20-08-2022,iOS
+search,search,navigation,,8612,29024401320,04-08-2022,iOS
+image,search,top_genres,Rock,3044,77941597229,10-08-2022,Android
+image,search,browse_all,Podcasts,2168,85091462607,15-08-2022,iOS
+image,search,top_genres,Rock,1270,69396715878,23-08-2022,Android
+search,home,navigation,,9952,96572757038,31-08-2022,Android
+love,album,album,,8101,45151562791,02-08-2022,Android
+image,search,browse_all,Charts,2401,80320160076,07-08-2022,iOS
+image,search,popular,YouTubers,2042,95944540559,14-08-2022,Android
+image,home,suggestions,Country Rock,5322,42181107947,24-08-2022,iOS
+image,search,browse_all,Charts,9624,40470023335,03-08-2022,Android
+image,search,browse_all,Study Jams,7265,45037382919,06-08-2022,iOS
+image,home,recently_played,Study beats,7178,91755824137,19-08-2022,iOS
+library,liked_songs,navigation,,6511,107824632642,19-08-2022,iOS
+search,home,navigation,,3138,41007270440,13-08-2022,iOS
+image,search,top_genres,Rock,7179,69547084192,23-08-2022,iOS
+image,home,suggestions,Dance & EDM,2916,84474096862,01-08-2022,Android
+image,home,suggestions,Indie,8085,45698665517,23-08-2022,Android
+toggle,liked_songs,download_all,,4819,62265388310,19-08-2022,Android
+library,liked_songs,navigation,,8180,48983713095,04-08-2022,Android
+home,search,navigation,,7814,88625944887,08-08-2022,Android
+search,search,navigation,,2535,94859280861,11-08-2022,Android
+image,search,popular,Comedy,9546,72561727541,21-08-2022,iOS
+image,search,browse_all,Podcasts,4524,62092797759,06-08-2022,iOS
+love,album,album,,6807,29570789891,17-08-2022,Android
+search,album,navigation,,8325,110866778917,04-08-2022,Android
+image,home,made_for_you,Chilled Hits,8474,87484347452,03-08-2022,iOS
+unlove,liked_songs,,,6772,48341089151,10-08-2022,iOS
+library,home,navigation,,4747,77270744867,11-08-2022,Android
+back,album,navigation,,7278,67077895039,20-08-2022,iOS
+image,search,browse_all,Study Jams,9292,96619824567,18-08-2022,iOS
+image,home,suggestions,Dance & EDM,8845,62796650932,08-08-2022,Android
+image,search,top_genres,Dance/Electronic,5178,92331668805,27-08-2022,Android
+image,search,browse_all,Study Jams,3989,103371920422,28-08-2022,iOS
+search,home,navigation,,4938,49629973113,26-08-2022,iOS
+image,home,suggestions,Dance & EDM,4978,63664411992,12-08-2022,Android
+library,search,navigation,,6080,75655760408,09-08-2022,iOS
+home,liked_songs,navigation,,6997,19581434501,03-08-2022,iOS
+library,search,navigation,,1177,97609848923,29-08-2022,iOS
+home,album,navigation,,6560,105728248801,21-08-2022,iOS
+home,liked_songs,navigation,,7462,90635750931,03-08-2022,iOS
+library,search,navigation,,5687,63560713558,31-08-2022,iOS
+image,home,suggestions,Electronic,7298,76159687926,05-08-2022,iOS
+image,home,recently_played,Chilled Hits,2797,39757299825,14-08-2022,Android
+image,home,suggestions,Chilled Hits,2940,82982302131,11-08-2022,iOS
+search,liked_songs,navigation,,6469,47011579210,08-08-2022,Android
+image,home,suggestions,Dance & EDM,6218,57885529481,24-08-2022,Android
+love,album,album,,4527,73742250276,05-08-2022,iOS
+library,liked_songs,navigation,,2538,93519952165,21-08-2022,iOS
+home,album,navigation,,7453,72306759038,12-08-2022,iOS
+image,home,recently_played,Study beats,3268,60262205544,16-08-2022,iOS
+image,search,popular,Comedy,3024,40501413606,07-08-2022,Android
+home,search,navigation,,2159,21008232769,20-08-2022,iOS
+image,home,suggestions,Country Rock,1828,101487949282,14-08-2022,Android
+image,search,browse_all,Podcasts,3663,76053425919,25-08-2022,iOS
+image,home,suggestions,Dance & EDM,1964,44431580035,15-08-2022,iOS
+library,home,navigation,,6264,41531924289,10-08-2022,Android
+image,search,browse_all,Charts,1317,21782839305,14-08-2022,iOS
+search,search,bar,,4732,23974872529,25-08-2022,Android
+more,liked_songs,,,9697,85381800326,05-08-2022,Android
+library,search,navigation,,9966,91624901297,21-08-2022,iOS
+library,search,navigation,,6195,37938178462,17-08-2022,Android
+image,search,popular,YouTubers,9765,31499988595,13-08-2022,iOS
+image,home,recently_played,Chilled Hits,2786,109038421636,01-08-2022,Android
+home,search,navigation,,3962,72545524937,09-08-2022,iOS
+more,album,,,9454,66651713099,29-08-2022,iOS
+settings,home,,,4380,28676173141,23-08-2022,iOS
+image,home,recently_played,Chill as Folk,3040,40001398973,13-08-2022,iOS
+home,liked_songs,navigation,,8435,72996746310,25-08-2022,iOS
+add,liked_songs,add_songs,,7117,36346625533,16-08-2022,Android
+library,home,navigation,,5438,108916642944,21-08-2022,iOS
+image,home,recently_played,Chilled Hits,4815,88844099563,20-08-2022,Android
+image,home,suggestions,Chilled Hits,3329,33960268024,26-08-2022,iOS
+image,home,suggestions,Dance & EDM,6751,59411576431,22-08-2022,Android
+play,album,song,,6942,53419438449,18-08-2022,iOS
+image,home,made_for_you,Chilled Hits,9852,54145334313,24-08-2022,iOS
+image,home,recently_played,Chill as Folk,4485,52715731782,03-08-2022,iOS
+library,liked_songs,navigation,,6738,62447413837,06-08-2022,Android
+image,home,recently_played,Chilled Hits,1888,105833533895,04-08-2022,iOS
+home,search,navigation,,8630,75360574397,02-08-2022,iOS
+image,home,suggestions,Electronic,7113,74741378846,18-08-2022,iOS
+image,search,popular,Comedy,2086,48787598304,18-08-2022,iOS
+image,search,top_genres,Dance/Electronic,4827,87773758763,10-08-2022,Android
+more,liked_songs,,,6820,31677868920,02-08-2022,iOS
+library,search,navigation,,5445,11859974221,14-08-2022,iOS
+image,search,popular,YouTubers,5029,22387294847,16-08-2022,iOS
+more,album,,,7220,38183025112,14-08-2022,Android
+search,liked_songs,navigation,,8482,100639387434,04-08-2022,Android
+library,home,navigation,,3564,28399127247,09-08-2022,Android
+image,search,browse_all,Study Jams,4636,11321471287,10-08-2022,iOS
+image,search,top_genres,Dance/Electronic,7782,85043482948,27-08-2022,Android
+more,album,,,7651,68639549468,29-08-2022,Android
+image,search,browse_all,Chillout,3473,69346247846,13-08-2022,iOS
+more,liked_songs,,,2550,28544006427,18-08-2022,iOS
+search,liked_songs,navigation,,6024,75734805820,02-08-2022,Android
+image,search,top_genres,Dance/Electronic,3165,20429932990,03-08-2022,iOS
+home,home,navigation,,4590,108352131175,27-08-2022,Android
+play,album,album,,3877,44890889217,16-08-2022,iOS
+image,home,suggestions,Indie,6545,13865128897,10-08-2022,Android
+library,home,navigation,,6897,87753531381,02-08-2022,Android
+image,search,browse_all,Charts,5460,45777398171,17-08-2022,Android
+image,home,suggestions,Chilled Hits,1268,85601358555,28-08-2022,Android
+play,liked_songs,shuffle,,1313,61242703777,26-08-2022,iOS
+image,home,recently_played,Study beats,5705,49266042548,04-08-2022,Android
+image,home,made_for_you,Chilled Hits,7930,102597886935,27-08-2022,Android
+image,search,popular,YouTubers,2869,21751442231,11-08-2022,Android
+play,liked_songs,shuffle,,8860,70081699600,30-08-2022,Android
+image,search,popular,YouTubers,1979,71427297740,11-08-2022,iOS
+more,album,,,4238,86079323294,20-08-2022,iOS
+play,album,album,,6765,81238562869,17-08-2022,iOS
+image,home,suggestions,Country Rock,5527,99823104005,15-08-2022,iOS
+back,album,navigation,,3406,29727639044,16-08-2022,iOS
+image,search,popular,Comedy,1929,23079190456,01-08-2022,Android
+love,album,album,,1982,69838150638,07-08-2022,iOS
+image,home,suggestions,Indie,7067,98257500897,18-08-2022,iOS
+search,album,navigation,,1245,57948593700,29-08-2022,iOS
+image,search,top_genres,Rock,5765,32845055090,04-08-2022,Android
+library,liked_songs,navigation,,9432,32553736929,25-08-2022,Android
+library,search,navigation,,7296,39075554027,23-08-2022,iOS
+image,home,recently_played,Study beats,8495,25446040757,09-08-2022,Android
+toggle,liked_songs,download_all,,5093,107015848760,27-08-2022,iOS
+image,home,made_for_you,Chilled Hits,5760,47168588882,14-08-2022,iOS
+image,home,made_for_you,Chilled Vibes,5402,69672655922,16-08-2022,iOS
+image,search,top_genres,Dance/Electronic,9054,18388468612,10-08-2022,Android
+play,album,album,,7859,61955154260,23-08-2022,iOS
+search,album,navigation,,2526,80393811896,08-08-2022,Android
+back,album,navigation,,6501,92349780036,26-08-2022,Android
+image,home,suggestions,Are & Be,5416,71001393567,02-08-2022,iOS
+library,liked_songs,navigation,,1582,23355024093,18-08-2022,Android
+back,album,navigation,,7982,59920241532,02-08-2022,iOS
+search,album,navigation,,1035,35874910736,26-08-2022,iOS
+image,search,top_genres,Rock,2364,71956554549,21-08-2022,Android
+image,search,top_genres,Dance/Electronic,9900,92232803510,30-08-2022,Android
+search,search,bar,,3069,92758891030,14-08-2022,Android
+image,home,made_for_you,Chilled Hits,5914,101754713042,24-08-2022,iOS
+image,home,recently_played,Chill as Folk,8030,62742768438,23-08-2022,Android
+toggle,liked_songs,download_all,,7605,94636809847,08-08-2022,Android
+back,album,navigation,,4447,15650494746,10-08-2022,iOS
+random,album,,,8667,99462997011,31-08-2022,iOS
+image,search,browse_all,Charts,3450,62922014811,16-08-2022,iOS
+image,home,recently_played,Study beats,6062,34135653022,21-08-2022,iOS
+toggle,liked_songs,download_all,,2369,103606106322,26-08-2022,Android
+image,home,made_for_you,Chilled Hits,9545,89172409467,17-08-2022,iOS
+home,album,navigation,,9969,55985829970,29-08-2022,iOS
+image,search,popular,Comedy,6412,99202704615,23-08-2022,iOS
+image,search,top_genres,Dance/Electronic,4902,11776951024,25-08-2022,Android
+image,search,popular,Comedy,6291,41833398555,28-08-2022,iOS
+image,search,popular,Comedy,9847,108235927448,29-08-2022,iOS
+search,liked_songs,navigation,,5381,64586112622,04-08-2022,iOS
+more,album,,,4005,33030750351,02-08-2022,iOS
+image,home,recently_played,Study beats,6536,20396675595,09-08-2022,iOS
+library,home,navigation,,4107,68131915273,17-08-2022,iOS
+toggle,liked_songs,download_all,,6957,26976731640,21-08-2022,iOS
+image,home,suggestions,Chilled Hits,9551,78468124760,12-08-2022,iOS
+image,search,browse_all,Charts,2210,56540671362,23-08-2022,Android
+home,search,navigation,,7618,96692559938,06-08-2022,Android
+settings,home,,,7548,45714361849,24-08-2022,iOS
+library,search,navigation,,6425,62951675737,12-08-2022,iOS
+image,home,suggestions,Chilled Hits,3132,46013703383,17-08-2022,iOS
+image,search,popular,YouTubers,7078,77240205323,14-08-2022,iOS
+home,search,navigation,,8738,88046939632,06-08-2022,iOS
+image,search,browse_all,Charts,5704,80784859830,02-08-2022,iOS
+image,search,popular,YouTubers,7917,24136692590,07-08-2022,Android
+image,search,browse_all,Podcasts,5902,31380517531,02-08-2022,iOS
+library,home,navigation,,3910,90566581413,30-08-2022,Android
+home,search,navigation,,1474,15416451166,21-08-2022,Android
+back,album,navigation,,5427,20806206787,11-08-2022,iOS
+image,home,recently_played,Chilled Hits,1446,92492481847,09-08-2022,Android
+search,liked_songs,navigation,,2246,25639432967,01-08-2022,iOS
+image,search,browse_all,Study Jams,3355,29958897823,03-08-2022,iOS
+image,home,made_for_you,Chilled Hits,8128,99896146081,15-08-2022,Android
+image,home,made_for_you,Chilled Hits,4516,17894937778,02-08-2022,Android
+love,album,album,,3256,86331498113,25-08-2022,iOS
+image,home,suggestions,Electronic,5294,93545161067,19-08-2022,iOS
+image,home,suggestions,Dance & EDM,3666,107090422227,19-08-2022,iOS
+library,album,navigation,,6224,25193135914,24-08-2022,iOS
+library,liked_songs,navigation,,7645,17024241319,01-08-2022,Android
+search,home,navigation,,3692,46737043579,01-08-2022,Android
+home,album,navigation,,4942,55074732158,16-08-2022,iOS
+image,search,browse_all,Charts,9560,22417562938,17-08-2022,Android
+play,album,song,,6073,42149639331,22-08-2022,iOS
+library,search,navigation,,4879,11862710193,29-08-2022,Android
+more,liked_songs,,,7124,53283516639,11-08-2022,iOS
+play,album,album,,8198,51702819996,20-08-2022,iOS
+image,search,browse_all,Study Jams,1268,11215014398,19-08-2022,iOS
+home,search,navigation,,6221,18390610657,31-08-2022,Android
+image,search,top_genres,Rock,5317,35131417093,15-08-2022,iOS
+add,liked_songs,add_songs,,8701,20632964138,07-08-2022,Android
+image,search,popular,Comedy,8302,84992884485,25-08-2022,Android
+image,home,suggestions,Are & Be,7308,90465103109,26-08-2022,Android
+library,search,navigation,,3733,73574578057,26-08-2022,iOS
+more,album,,,8172,44768908414,02-08-2022,iOS
+search,search,navigation,,5675,60503215395,15-08-2022,iOS
+download,album,,,6384,26817153671,22-08-2022,iOS
+image,home,recently_played,Study beats,2957,11892879468,23-08-2022,Android
+library,liked_songs,navigation,,3648,58315807978,28-08-2022,Android
+search,album,navigation,,9895,16474771644,14-08-2022,iOS
+download,album,,,7895,72627426687,08-08-2022,Android
+search,search,navigation,,3486,54837562952,30-08-2022,iOS
+library,album,navigation,,2279,85577233748,25-08-2022,iOS
+unlove,liked_songs,,,1948,59394491950,03-08-2022,Android
+unlove,liked_songs,,,5747,31057001516,11-08-2022,iOS
+home,home,navigation,,7318,109641035952,28-08-2022,Android
+back,album,navigation,,3804,23619632449,04-08-2022,iOS
+image,home,suggestions,Country Rock,6007,27231035295,14-08-2022,iOS
+download,album,,,1149,38967302958,05-08-2022,iOS
+love,album,album,,8603,56789575076,24-08-2022,Android
+play,album,song,,4128,18509141681,11-08-2022,iOS
+toggle,liked_songs,download_all,,2203,77499204296,07-08-2022,iOS
+image,home,suggestions,Electronic,1210,48072567701,18-08-2022,iOS
+back,album,navigation,,2154,82223856988,20-08-2022,iOS
+more,album,,,3611,42074333591,03-08-2022,Android
+search,search,navigation,,9526,108209038028,04-08-2022,Android
+image,search,top_genres,Dance/Electronic,8313,78163662786,05-08-2022,Android
+image,search,popular,YouTubers,2302,72421311996,06-08-2022,iOS
+image,search,top_genres,Rock,7824,73671957818,21-08-2022,Android
+image,home,recently_played,Chill as Folk,2339,55219370163,05-08-2022,Android
+image,search,popular,YouTubers,6810,60979794147,21-08-2022,iOS
+home,search,navigation,,2788,110576193527,14-08-2022,Android
+image,home,made_for_you,Chilled Hits,6860,92062742663,03-08-2022,Android
+image,home,suggestions,Are & Be,4004,21441427176,26-08-2022,Android
+image,search,popular,YouTubers,5180,101429994673,16-08-2022,iOS
+image,search,popular,YouTubers,6432,85421913488,12-08-2022,Android
+image,home,suggestions,Country Rock,9562,56802323797,09-08-2022,Android
+image,home,suggestions,Electronic,1394,98672572633,06-08-2022,iOS
+add,liked_songs,add_songs,,2169,53283119725,02-08-2022,iOS
+more,album,,,7584,51848899886,07-08-2022,iOS
+unlove,liked_songs,,,8521,106402702779,12-08-2022,Android
+image,home,suggestions,Electronic,6386,72642604321,09-08-2022,Android
+search,liked_songs,navigation,,5383,61857021901,16-08-2022,iOS
+more,liked_songs,,,3590,107356045340,14-08-2022,Android
+search,search,navigation,,8237,72450738275,05-08-2022,iOS
+more,liked_songs,,,7138,46859741953,12-08-2022,Android
+search,search,navigation,,3262,55259466250,13-08-2022,iOS
+image,search,browse_all,Chillout,1560,107129882792,22-08-2022,Android
+love,album,album,,4438,44337735806,18-08-2022,iOS
+home,search,navigation,,2690,33986263091,05-08-2022,iOS
+image,home,suggestions,Country Rock,7920,22788839331,23-08-2022,Android
+play,liked_songs,shuffle,,2893,109302830709,29-08-2022,Android
+image,home,suggestions,Chilled Hits,7432,34820427637,26-08-2022,Android
+library,search,navigation,,5662,33138669026,25-08-2022,Android
+home,home,navigation,,8504,73246773223,27-08-2022,iOS
+toggle,liked_songs,download_all,,8219,77548822589,20-08-2022,Android
+download,album,,,9086,61190576101,04-08-2022,iOS
+play,liked_songs,shuffle,,6168,101552428616,04-08-2022,iOS
+search,search,bar,,7737,84834737655,16-08-2022,iOS
+image,search,popular,YouTubers,1349,98041593191,03-08-2022,iOS
+image,home,made_for_you,Chilled Vibes,5323,90522875749,24-08-2022,iOS
+image,search,top_genres,Dance/Electronic,1258,18303799935,23-08-2022,Android
+home,album,navigation,,9319,67578780274,17-08-2022,iOS
+more,album,,,2162,49305616766,09-08-2022,iOS
+library,search,navigation,,2744,56742372212,11-08-2022,iOS
+image,search,browse_all,Charts,6485,29461269630,06-08-2022,iOS
+play,album,song,,6747,64384079941,25-08-2022,Android
+image,home,suggestions,Indie,5669,60163077427,08-08-2022,Android
+add,liked_songs,add_songs,,3127,57315219408,03-08-2022,Android
+play,liked_songs,shuffle,,2816,95603387364,28-08-2022,iOS
+love,album,album,,3793,73242040578,15-08-2022,iOS
+library,home,navigation,,7873,73195742662,06-08-2022,Android
+image,search,browse_all,Charts,3481,63972181064,10-08-2022,iOS
+toggle,liked_songs,download_all,,9475,58776679731,31-08-2022,iOS
+library,home,navigation,,6005,76359638415,08-08-2022,Android
+library,home,navigation,,9172,16337436940,24-08-2022,iOS
+image,search,top_genres,Dance/Electronic,7096,94183991641,27-08-2022,Android
+unlove,liked_songs,,,9978,38715201410,14-08-2022,iOS
+search,search,navigation,,2665,15754615376,24-08-2022,Android
+image,home,recently_played,Chilled Hits,2368,93348110260,18-08-2022,iOS
+back,album,navigation,,5224,94031640529,15-08-2022,Android
+library,album,navigation,,8254,39443955140,24-08-2022,Android
+search,search,navigation,,3588,55807894555,16-08-2022,Android
+love,album,album,,3957,77224674411,01-08-2022,iOS
+toggle,liked_songs,download_all,,4498,51611029047,01-08-2022,iOS
+image,home,suggestions,Indie,3617,28160789456,27-08-2022,iOS
+home,album,navigation,,6043,70667379575,01-08-2022,Android
+more,album,,,8755,51554159486,25-08-2022,Android
+image,home,suggestions,Country Rock,1070,61097951964,19-08-2022,iOS
+search,liked_songs,navigation,,7731,52267892377,26-08-2022,iOS
+library,search,navigation,,4859,82432162446,07-08-2022,iOS
+play,album,song,,4336,100212737571,14-08-2022,Android
+back,album,navigation,,4558,63837861586,03-08-2022,iOS
+image,search,browse_all,Charts,5815,19281169814,09-08-2022,iOS
+home,search,navigation,,7971,58501017391,11-08-2022,Android
+image,search,popular,YouTubers,5369,91899664275,17-08-2022,iOS
+library,search,navigation,,8822,104161171300,12-08-2022,Android
+search,search,navigation,,2619,94416492074,08-08-2022,iOS
+image,search,popular,Comedy,5712,65816121151,31-08-2022,iOS
+image,search,popular,Comedy,7882,21277333590,21-08-2022,iOS
+settings,home,,,9007,108535980916,11-08-2022,Android
+love,album,album,,8757,105328647278,12-08-2022,iOS
+more,album,,,4191,40651451008,02-08-2022,iOS
+image,home,suggestions,Indie,2784,12366987118,21-08-2022,iOS
+image,home,recently_played,Study beats,5208,18055361770,07-08-2022,iOS
+home,liked_songs,navigation,,5513,95184665297,25-08-2022,Android
+image,search,browse_all,Charts,5408,24129586370,27-08-2022,Android
+play,album,album,,7129,95959217557,21-08-2022,iOS
+image,home,recently_played,Chilled Hits,8308,60423227710,11-08-2022,Android
+image,home,recently_played,Chilled Hits,2001,65362642258,03-08-2022,Android
+back,album,navigation,,1383,33311330166,02-08-2022,iOS
+search,home,navigation,,8627,88856560797,11-08-2022,iOS
+image,search,browse_all,Charts,9980,74485366427,08-08-2022,Android
+search,search,bar,,9734,49317249851,16-08-2022,Android
+settings,home,,,7406,110402805432,23-08-2022,Android
+library,home,navigation,,5243,46831428988,30-08-2022,iOS
+toggle,liked_songs,download_all,,9470,60183069302,01-08-2022,iOS
+image,home,suggestions,Indie,3352,52868086738,21-08-2022,Android
+image,home,suggestions,Electronic,2886,106849600012,25-08-2022,Android
+back,album,navigation,,2918,72427801361,25-08-2022,Android
+toggle,liked_songs,download_all,,6155,60843389275,26-08-2022,Android
+search,home,navigation,,7588,93739389096,11-08-2022,iOS
+library,album,navigation,,2128,29591215825,10-08-2022,Android
+search,album,navigation,,8129,73948156668,25-08-2022,Android
+image,home,suggestions,Country Rock,7894,99840183077,16-08-2022,iOS
+search,liked_songs,navigation,,7407,105040102588,06-08-2022,iOS
+image,search,popular,YouTubers,3463,11228524814,04-08-2022,Android
+image,search,browse_all,Podcasts,5358,86691787342,08-08-2022,iOS
+image,home,suggestions,Indie,5613,25681253557,30-08-2022,Android
+image,home,suggestions,Indie,4852,12354508291,26-08-2022,iOS
+image,search,browse_all,Podcasts,3743,62102965117,05-08-2022,Android
+image,search,popular,Comedy,8376,75924614861,19-08-2022,Android
+library,search,navigation,,8824,50667067655,19-08-2022,Android
+image,home,suggestions,Dance & EDM,9363,108908156816,07-08-2022,iOS
+image,home,suggestions,Chilled Hits,5216,45480336877,02-08-2022,Android
+image,home,suggestions,Are & Be,3159,97627558614,23-08-2022,Android
+image,search,popular,YouTubers,7554,70479615024,04-08-2022,Android
+image,search,popular,Comedy,2565,12128778522,28-08-2022,iOS
+library,search,navigation,,6351,15446330341,08-08-2022,iOS
+settings,home,,,1771,40079506647,28-08-2022,iOS
+home,liked_songs,navigation,,8600,58083548856,15-08-2022,Android
+more,liked_songs,,,4285,13019677877,28-08-2022,iOS
+home,home,navigation,,6749,75318413971,25-08-2022,iOS
+play,album,album,,6912,40893506827,28-08-2022,Android
+search,search,bar,,3920,77931647224,23-08-2022,iOS
+image,search,popular,YouTubers,8502,63279894020,21-08-2022,Android
+search,search,navigation,,5837,29476881790,15-08-2022,Android
+image,home,made_for_you,Chilled Hits,5507,68181274647,21-08-2022,iOS
+toggle,liked_songs,download_all,,8944,96361592956,11-08-2022,iOS
+home,search,navigation,,8943,109574334487,30-08-2022,Android
+download,album,,,1663,98087256760,26-08-2022,Android
+home,album,navigation,,9208,77508956216,27-08-2022,iOS
+image,home,recently_played,Chilled Hits,4858,18618335514,22-08-2022,Android
+search,search,bar,,4119,71862540226,11-08-2022,Android
+search,album,navigation,,1535,46960679623,01-08-2022,Android
+library,liked_songs,navigation,,9256,78372273187,05-08-2022,Android
+unlove,liked_songs,,,8315,25986181249,09-08-2022,iOS
+image,home,suggestions,Are & Be,5172,82785164998,15-08-2022,iOS
+image,home,made_for_you,Chilled Hits,3879,65446249983,05-08-2022,iOS
+library,album,navigation,,3243,88708033047,01-08-2022,Android
+back,album,navigation,,7170,61747113742,13-08-2022,Android
+image,home,recently_played,Study beats,1069,31811420263,04-08-2022,Android
+add,liked_songs,add_songs,,6258,69808615149,07-08-2022,iOS
+search,liked_songs,navigation,,2465,15334122041,10-08-2022,iOS
+image,home,recently_played,Chilled Hits,7711,45320523914,06-08-2022,Android
+image,home,suggestions,Chilled Hits,2009,28163540386,11-08-2022,Android
+image,home,made_for_you,Chilled Vibes,8334,110134733527,05-08-2022,iOS
+image,search,popular,Comedy,3974,12667929745,04-08-2022,iOS
+image,search,browse_all,Study Jams,7914,70792685831,11-08-2022,Android
+image,home,suggestions,Dance & EDM,8074,38301367051,31-08-2022,iOS
+image,search,popular,YouTubers,5242,110235283015,14-08-2022,iOS
+home,liked_songs,navigation,,7803,69585393365,27-08-2022,Android
+image,home,suggestions,Electronic,9790,72123636570,31-08-2022,Android
+image,search,browse_all,Chillout,4647,39222230608,12-08-2022,iOS
+search,album,navigation,,2124,54463419345,08-08-2022,iOS
+download,album,,,7317,28998066848,27-08-2022,iOS
+download,album,,,9820,13881486717,09-08-2022,Android
+image,search,popular,YouTubers,2169,29894818561,31-08-2022,iOS
+download,album,,,2346,27600606393,05-08-2022,iOS
+search,home,navigation,,5551,71919477811,10-08-2022,iOS
+image,home,suggestions,Indie,9362,102446792673,10-08-2022,iOS
+image,search,popular,Comedy,5837,37391506793,11-08-2022,Android
+random,album,,,6756,11691306283,22-08-2022,iOS
+image,home,suggestions,Dance & EDM,8428,68452787942,07-08-2022,iOS
+image,search,top_genres,Dance/Electronic,6251,55241309887,30-08-2022,iOS
+image,home,suggestions,Country Rock,2021,100186804002,15-08-2022,iOS
+home,search,navigation,,9916,35617550757,15-08-2022,Android
+home,home,navigation,,7638,84571637586,30-08-2022,Android
+love,album,album,,8545,11313091840,02-08-2022,Android
+library,album,navigation,,2978,95976267510,10-08-2022,Android
+image,search,browse_all,Study Jams,3111,73121324682,15-08-2022,Android
+search,search,navigation,,4237,45870890781,08-08-2022,iOS
+more,liked_songs,,,6655,89030107814,06-08-2022,Android
+image,home,made_for_you,Chilled Hits,7343,83107198786,23-08-2022,iOS
+home,search,navigation,,8858,97570432949,17-08-2022,iOS
+play,liked_songs,shuffle,,9399,100550711361,17-08-2022,iOS
+image,home,recently_played,Chill as Folk,2530,19790460021,16-08-2022,iOS
+love,album,album,,4408,47817690920,29-08-2022,iOS
+image,home,made_for_you,Chilled Vibes,7588,15120709718,24-08-2022,Android
+more,liked_songs,,,1961,60712616734,15-08-2022,iOS
+random,album,,,8714,88105615302,11-08-2022,Android
+image,search,popular,YouTubers,4222,36745554063,04-08-2022,iOS
+home,album,navigation,,6395,58695680637,26-08-2022,iOS
+image,search,popular,Comedy,1266,101904924576,19-08-2022,iOS
+toggle,liked_songs,download_all,,3512,89987087941,20-08-2022,iOS
+unlove,liked_songs,,,4754,33807434274,30-08-2022,iOS
+search,search,navigation,,6621,101605094293,25-08-2022,Android
+search,liked_songs,navigation,,7335,16578169153,05-08-2022,Android
+image,home,recently_played,Chill as Folk,3792,102810283548,17-08-2022,Android
+unlove,liked_songs,,,1442,39276301258,07-08-2022,iOS
+search,liked_songs,navigation,,9945,65728665397,30-08-2022,iOS
+home,home,navigation,,8301,57464742365,04-08-2022,Android
+search,liked_songs,navigation,,8285,11795294533,29-08-2022,Android
+image,search,popular,Comedy,2084,107788778017,01-08-2022,Android
+image,search,browse_all,Charts,4264,94295050987,23-08-2022,iOS
+back,album,navigation,,7740,34734495262,21-08-2022,iOS
+image,home,suggestions,Indie,2234,73328393865,16-08-2022,Android
+image,home,recently_played,Study beats,6344,24302908492,27-08-2022,Android
+image,search,top_genres,Dance/Electronic,6002,67571548205,20-08-2022,iOS
+more,album,,,7747,45362721129,26-08-2022,iOS
+random,album,,,7338,66324487157,08-08-2022,Android
+search,search,bar,,5265,71002701566,23-08-2022,iOS
+image,home,suggestions,Dance & EDM,4831,51927997157,12-08-2022,Android
+image,search,popular,YouTubers,4310,95999306028,12-08-2022,Android
+home,liked_songs,navigation,,5464,46082017616,24-08-2022,iOS
+library,home,navigation,,9757,79323226191,11-08-2022,Android
+image,search,top_genres,Dance/Electronic,7922,25971392348,18-08-2022,iOS
+search,album,navigation,,1582,45348500756,23-08-2022,iOS
+image,home,suggestions,Electronic,9524,56809156943,21-08-2022,iOS
+home,liked_songs,navigation,,9278,90509676345,16-08-2022,iOS
+home,search,navigation,,8468,64978333591,28-08-2022,Android
+image,search,top_genres,Dance/Electronic,5786,109869175782,02-08-2022,iOS
+image,search,popular,YouTubers,2075,59257628443,11-08-2022,Android
+image,search,browse_all,Chillout,3397,27518744652,02-08-2022,iOS
+image,home,suggestions,Are & Be,9146,80716592991,30-08-2022,iOS
+image,search,popular,Comedy,1332,99722656591,29-08-2022,Android
+image,search,top_genres,Dance/Electronic,4616,73166416480,16-08-2022,iOS
+home,search,navigation,,4759,46466047755,07-08-2022,Android
+home,search,navigation,,8625,58277045038,12-08-2022,Android
+download,album,,,2938,82980099255,13-08-2022,Android
+settings,home,,,6087,87598955066,18-08-2022,iOS
+love,album,album,,8254,90075209056,21-08-2022,Android
+image,search,browse_all,Charts,5718,77584818490,20-08-2022,iOS
+play,album,song,,4054,13398317097,25-08-2022,iOS
+image,home,recently_played,Study beats,1242,38758611728,04-08-2022,Android
+image,search,top_genres,Rock,1152,59533969800,16-08-2022,Android
+home,album,navigation,,6929,26523360010,30-08-2022,Android
+image,home,made_for_you,Chilled Vibes,6028,60790515658,26-08-2022,iOS
+toggle,liked_songs,download_all,,9776,72604974439,27-08-2022,iOS
+play,liked_songs,shuffle,,9281,59990332928,13-08-2022,Android
+search,album,navigation,,5884,98534961989,30-08-2022,iOS
+play,liked_songs,shuffle,,4386,92494915175,03-08-2022,iOS
+library,search,navigation,,1362,97965748903,22-08-2022,iOS
+toggle,liked_songs,download_all,,2203,19605613772,28-08-2022,iOS
+play,album,album,,3154,36740170873,30-08-2022,iOS
+love,album,album,,5519,110549506384,24-08-2022,Android
+image,home,recently_played,Chill as Folk,6390,88697089226,03-08-2022,Android
+image,home,recently_played,Chill as Folk,3222,102937960666,26-08-2022,Android
+settings,home,,,3757,25043407268,06-08-2022,Android
+image,search,popular,Comedy,1753,30193050691,09-08-2022,Android
+back,album,navigation,,7162,88546024980,18-08-2022,iOS
+image,home,suggestions,Dance & EDM,6630,71614307154,06-08-2022,iOS
+image,home,suggestions,Electronic,7223,80788553864,19-08-2022,iOS
+image,home,recently_played,Chill as Folk,7882,30281180155,22-08-2022,Android
+search,liked_songs,navigation,,9859,16083218464,30-08-2022,iOS
+image,home,recently_played,Chill as Folk,6611,107800299413,07-08-2022,iOS
+image,home,made_for_you,Chilled Hits,7869,91344039661,06-08-2022,iOS
+image,search,popular,Comedy,9450,65198352451,25-08-2022,iOS
+back,album,navigation,,9947,46420300873,15-08-2022,iOS
+library,search,navigation,,3479,103355410075,26-08-2022,iOS
+image,search,popular,YouTubers,5577,19942180181,23-08-2022,Android
+image,home,made_for_you,Chilled Hits,4188,16761093701,07-08-2022,Android
+library,search,navigation,,9325,27695933479,11-08-2022,iOS
+search,search,navigation,,2301,32387933621,01-08-2022,iOS
+search,liked_songs,navigation,,5331,18285831573,03-08-2022,iOS
+image,home,suggestions,Electronic,8083,85498847815,18-08-2022,Android
+add,liked_songs,add_songs,,4288,51860074076,28-08-2022,Android
+play,album,album,,9694,97400606308,04-08-2022,Android
+image,search,top_genres,Rock,3563,54815245247,06-08-2022,iOS
+image,home,recently_played,Chilled Hits,9428,15016751733,13-08-2022,Android
+image,home,suggestions,Indie,6118,60086617944,06-08-2022,iOS
+love,album,album,,3792,62157828344,03-08-2022,Android
+search,album,navigation,,2225,65028526158,10-08-2022,Android
+image,search,popular,YouTubers,9339,45612737525,15-08-2022,Android
+home,search,navigation,,4775,91515675003,20-08-2022,Android
+library,liked_songs,navigation,,5223,12541910841,13-08-2022,iOS
+search,home,navigation,,8970,72430393451,23-08-2022,iOS
+unlove,liked_songs,,,4618,75376431708,12-08-2022,Android
+settings,home,,,1136,54513997944,11-08-2022,iOS
+search,search,navigation,,1750,27723946645,19-08-2022,iOS
+home,liked_songs,navigation,,8813,32692673932,19-08-2022,Android
+home,liked_songs,navigation,,2672,30585608102,12-08-2022,iOS
+image,search,top_genres,Dance/Electronic,7162,88599299295,08-08-2022,iOS
+search,search,bar,,5980,76652469478,10-08-2022,iOS
+add,liked_songs,add_songs,,5618,28790390742,10-08-2022,iOS
+search,search,bar,,6454,69307125438,22-08-2022,iOS
+search,search,navigation,,6968,55713364127,19-08-2022,Android
+image,home,suggestions,Chilled Hits,4126,53277424688,09-08-2022,iOS
+play,liked_songs,shuffle,,7680,17903365876,28-08-2022,Android
+image,search,popular,Comedy,9171,44347171243,10-08-2022,iOS
+image,home,suggestions,Electronic,4138,74145537246,17-08-2022,iOS
+image,home,recently_played,Study beats,9256,95626640309,02-08-2022,iOS
+library,home,navigation,,4658,92813805561,31-08-2022,Android
+image,search,popular,Comedy,8589,70836422355,15-08-2022,Android
+play,liked_songs,shuffle,,4302,96885012957,21-08-2022,Android
+search,liked_songs,navigation,,4531,44506594200,10-08-2022,Android
+search,home,navigation,,4351,85229337841,21-08-2022,iOS
+home,search,navigation,,9021,73640497822,09-08-2022,iOS
+library,search,navigation,,6612,101109487052,20-08-2022,iOS
+image,search,browse_all,Charts,5097,47353509138,15-08-2022,Android
+love,album,album,,4973,30101340833,15-08-2022,Android
+play,album,album,,2851,40355848825,24-08-2022,iOS
+library,home,navigation,,8893,88761166761,25-08-2022,Android
+search,search,bar,,5841,47395278979,06-08-2022,iOS
+search,search,bar,,4531,77636082052,01-08-2022,Android
+library,album,navigation,,2686,91561986368,25-08-2022,Android
+more,liked_songs,,,8081,45768715319,28-08-2022,iOS
+search,search,navigation,,4733,92577519044,27-08-2022,Android
+image,search,top_genres,Dance/Electronic,2651,60530058308,20-08-2022,Android
+image,search,browse_all,Podcasts,2458,30436128572,24-08-2022,iOS
+image,home,recently_played,Chilled Hits,9819,82480416321,07-08-2022,iOS
+home,search,navigation,,5271,56309372415,28-08-2022,Android
+play,album,album,,9779,48194845845,15-08-2022,Android
+image,search,popular,Comedy,7561,23610984429,15-08-2022,iOS
+image,search,browse_all,Study Jams,1093,21812967534,06-08-2022,Android
+image,home,suggestions,Electronic,2254,83621698401,04-08-2022,Android
+image,home,suggestions,Electronic,8606,27961615700,15-08-2022,Android
+home,home,navigation,,1005,41658940749,29-08-2022,Android
+home,search,navigation,,1040,108305847314,18-08-2022,iOS
+image,search,top_genres,Rock,5453,85881756786,24-08-2022,iOS
+search,search,navigation,,4981,35919832829,12-08-2022,iOS
+search,search,navigation,,8427,62421859355,30-08-2022,Android
+home,search,navigation,,3868,57083660506,05-08-2022,Android
+image,home,suggestions,Dance & EDM,7690,68582010084,22-08-2022,Android
+image,home,suggestions,Electronic,3884,84469234650,24-08-2022,Android
+settings,home,,,5430,104793544886,25-08-2022,iOS
+image,home,recently_played,Chilled Hits,4406,66730411736,14-08-2022,Android
+play,album,song,,1379,59120722996,01-08-2022,iOS
+more,album,,,9607,14622055449,15-08-2022,Android
+search,search,bar,,6675,96957714249,22-08-2022,Android
+image,search,popular,YouTubers,1098,97009497277,08-08-2022,iOS
+more,album,,,3387,60959038602,18-08-2022,iOS
+image,home,recently_played,Chill as Folk,7574,98564359372,20-08-2022,Android
+toggle,liked_songs,download_all,,4821,71953254137,06-08-2022,iOS
+home,liked_songs,navigation,,1338,20348840097,10-08-2022,Android
+image,home,recently_played,Chill as Folk,4873,94760504043,05-08-2022,Android
+home,album,navigation,,6016,74988257195,30-08-2022,iOS
+image,home,made_for_you,Chilled Hits,3073,34151012594,11-08-2022,iOS
+image,home,recently_played,Study beats,5824,40612084771,14-08-2022,iOS
+more,album,,,4892,20069217154,04-08-2022,iOS
+home,album,navigation,,7420,54113783894,06-08-2022,iOS
+more,liked_songs,,,3764,38177955122,10-08-2022,Android
+image,home,recently_played,Study beats,9382,39453788342,20-08-2022,Android
+toggle,liked_songs,download_all,,6941,40674057560,29-08-2022,Android
+play,album,song,,8348,94171475377,13-08-2022,Android
+search,home,navigation,,8814,66561271449,27-08-2022,iOS
+search,search,navigation,,8574,58011506929,23-08-2022,iOS
+home,search,navigation,,8666,99243277321,22-08-2022,iOS
+image,home,suggestions,Chilled Hits,8912,80754195072,05-08-2022,iOS
+search,home,navigation,,2906,78565937173,04-08-2022,Android
+image,search,popular,YouTubers,6025,28694574782,31-08-2022,iOS
+library,home,navigation,,2672,21894310980,12-08-2022,Android
+back,album,navigation,,4925,14931950661,18-08-2022,Android
+image,search,popular,Comedy,4966,50601538609,20-08-2022,iOS

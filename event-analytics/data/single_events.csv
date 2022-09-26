@@ -1,0 +1,51 @@
+eventName,screenName,context,category
+search,home,navigation,
+home,home,navigation,
+library,home,navigation,
+settings,home,,
+image,home,recently_played,Chilled Hits
+image,home,recently_played,Study beats
+image,home,recently_played,Chill as Folk
+image,home,suggestions,Indie
+image,home,suggestions,Dance & EDM
+image,home,suggestions,Country Rock
+image,home,suggestions,Electronic
+image,home,suggestions,Are & Be
+image,home,suggestions,Chilled Hits
+image,home,made_for_you,Chilled Hits
+image,home,made_for_you,Chilled Vibes
+search,search,bar,
+search,search,navigation,
+home,search,navigation,
+library,search,navigation,
+image,search,popular,YouTubers
+image,search,popular,Comedy
+image,search,top_genres,Dance/Electronic
+image,search,top_genres,Rock
+image,search,popular,YouTubers
+image,search,popular,Comedy
+image,search,browse_all,Podcasts
+image,search,browse_all,Charts
+image,search,browse_all,Chillout
+image,search,browse_all,Study Jams
+home,search,navigation,
+search,search,navigation,
+library,search,navigation,
+play,album,album,
+play,album,song,
+love,album,album,
+download,album,,
+random,album,,
+more,album,,
+home,album,navigation,
+search,album,navigation,
+library,album,navigation,
+back,album,navigation,
+home,liked_songs,navigation,
+search,liked_songs,navigation,
+library,liked_songs,navigation,
+play,liked_songs,shuffle,
+add,liked_songs,add_songs,
+unlove,liked_songs,,
+more,liked_songs,,
+toggle,liked_songs,download_all,
