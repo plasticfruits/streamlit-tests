@@ -63,6 +63,21 @@ kpi3.metric(
     delta=round(m_count) - 10,
 )
 
+# create two columns for charts
+fig_col1, fig_col2 = st.columns(2)
+
+with fig_col1:
+    st.markdown("### First Chart")
+    fig = px.pie(
+        data_frame=df, values='userId', names='operatingSystem'
+    )
+    st.plotly_chart(fig, use_container_width=True)
+   
+with fig_col2:
+    st.markdown("### Second Chart")
+    fig2 = px.histogram(data_frame=df, x="operatingSystem")
+    st.plotly_chart(fig2, use_container_width=True)
+    
 
 # create two columns for charts
 fig_col1, fig_col2 = st.columns(2)
@@ -81,17 +96,3 @@ with fig_col2:
     st.plotly_chart(fig2, use_container_width=True)
     
 
-# create two columns for charts
-fig_col1, fig_col2 = st.columns(2)
-
-with fig_col1:
-    st.markdown("### First Chart")
-    fig = px.pie(
-        data_frame=df, values='userId', names='operatingSystem'
-    )
-    st.plotly_chart(fig, use_container_width=True)
-   
-with fig_col2:
-    st.markdown("### Second Chart")
-    fig2 = px.histogram(data_frame=df, x="operatingSystem")
-    st.plotly_chart(fig2, use_container_width=True)
